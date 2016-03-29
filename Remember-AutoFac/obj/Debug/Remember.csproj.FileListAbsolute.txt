@@ -6,3 +6,11 @@ C:\Users\toroskar\Documents\Visual Studio 2015\Projects\Remember-AutoFac\bin\Deb
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\Remember-AutoFac\obj\Debug\Remember.csprojResolveAssemblyReference.cache
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\Remember-AutoFac\obj\Debug\Remember.exe
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\Remember-AutoFac\obj\Debug\Remember.pdb
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\bin\Debug\Remember.exe.config
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\obj\Debug\Remember.exe
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\obj\Debug\Remember.pdb
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\bin\Debug\Remember.exe
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\bin\Debug\Remember.pdb
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\bin\Debug\Autofac.dll
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\bin\Debug\Autofac.xml
+C:\dev\Sandbox\AutoFacExamples\Remember-AutoFac\obj\Debug\Remember.csprojResolveAssemblyReference.cache

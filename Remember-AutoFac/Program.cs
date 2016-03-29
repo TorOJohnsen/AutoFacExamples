@@ -19,7 +19,7 @@ namespace Remember
         static void Main()
         {
             var memos = new List<Memo> {
-                new Memo { Title = "Release Autofac 1.1", DueAt = new DateTime(2007, 03, 12) },
+                new Memo { Title = "Release Autofac 1.1", DueAt = new DateTime(2017, 03, 12) },
                 new Memo { Title = "Update CodeProject Article", DueAt = DateTime.Now },
                 new Memo { Title = "Release Autofac 3", DueAt = new DateTime(2011, 07, 01) }
             };
