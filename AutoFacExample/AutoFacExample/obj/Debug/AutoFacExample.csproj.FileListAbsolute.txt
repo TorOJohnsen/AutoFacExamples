@@ -20,3 +20,6 @@ C:\Users\toroskar\Documents\Visual Studio 2015\Projects\AutoFacExample\AutoFacEx
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\AutoFacExample\AutoFacExample\bin\Debug\Serilog.xml
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\AutoFacExample\AutoFacExample\bin\Debug\Serilog.FullNetFx.pdb
 C:\Users\toroskar\Documents\Visual Studio 2015\Projects\AutoFacExample\AutoFacExample\bin\Debug\Serilog.FullNetFx.xml
+C:\dev\Sandbox\AutoFacExamples\AutoFacExample\AutoFacExample\bin\Debug\AutoFacExample.exe.config
+C:\dev\Sandbox\AutoFacExamples\AutoFacExample\AutoFacExample\obj\Debug\AutoFacExample.exe
+C:\dev\Sandbox\AutoFacExamples\AutoFacExample\AutoFacExample\obj\Debug\AutoFacExample.pdb
